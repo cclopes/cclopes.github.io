@@ -1,0 +1,30 @@
+locale = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://cclopes.github.io/"
+title = "Camila Lopes"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#EADEFA"
+colorPrimary = "#811ADB"
+colorSecondary = "#302456"
+colorIconPrimary = "#fff"
+colorIconBackground = "#d756f0"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#302456"
+colorRightColumnBodyText = "#302456"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#d756f0"
+pages = 1
+# Set this param to 'true' to swap the bar positions
+swapColumns = false
+footerNote = "2020 © by Inês Almeida   |   ines-almeida.com"

@@ -1,0 +1,83 @@
+BasicInfo:
+  FirstName: Camila
+  LastName: Lopes
+  Photo: img/7E4A0039.jpeg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +55 11 3091-2638
+    - Icon: fas fa-envelope
+      Info: camila.cunha.lopes@usp.br
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://cclopes.github.io/" target="_blank">cclopes.github.io</a>
+    - Icon: fas fa-map-marker-alt
+      Info: São Paulo, Brazil
+
+Profile: My name is Camila da Cunha Lopes and I'm a meteorologist. I have experience in meteorological and hydrological data analysis, as well as project management. Currently, I am the General Manager at <a class="contact__link" href="https://climares.iee.usp.br/" target="_blank">CLIMARES</a>, where I coordinate projects related to climate change and resilience.
+
+Experience:
+  - Employer: University of São Paulo
+    Place: São Paulo, Brazil
+    Positions:
+      - Title: Meteorology Specialist
+        Date: Sep 2025 - Present
+        Details:
+          - General Manager @ <a class="contact__link" href="https://climares.iee.usp.br/" target="_blank">CLIMARES</a>
+          - Studying physical, chemical, biological, social, economic and health processes related to climate change and its impacts on the environment and society
+          - Coordination of projects and iniatiatives throughout the 11 thematic axes
+        Badges:
+          ["Python", "Excel", "Agile"]
+  - Employer: VEXUS - Rhama Analysis
+    Place: Porto Alegre, Brazil
+    Positions:
+      - Title: Meteorology Specialist (Remote)
+        Date: Sep 2023 - Sep 2025
+        Details:
+          - Product manager of a meteorological data platform
+          - Meteorological and hidrological data analysis and processing
+        Badges: ["Python", "Agile", "Data Analysis"]
+
+Education:
+  - Course: PhD in Sciences (Meteorology)
+    Place: University of São Paulo
+    Date: Oct 2019 - Nov 2024
+    Details: Cloud invigoration hyphotesis in the Amazon
+
+  - Course: MSc in Sciences (Meteorology)
+    Place: University of São Paulo
+    Date: Mar 2017 - Mar 2019
+    Details: Microphysics and Electrical Activity of Hailstorms in São Paulo
+  - Course: BSc in Meteorology
+    Place: University of São Paulo
+    Date: Mar 2012 - Mar 2017
+    Details: Life cycle of thunderstorms in São Paulo
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - R
+      - Bash
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+  - Family: Misc
+    Items:
+      - Microsoft tools (Word, Excel, PowerPoint)
+      - LaTeX
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: C1 Adavanced
+
+Diplomas:
+  - EF SET English Certificate (2026)
+
+Interests:
+  - Reading
+  - Gaming
+  - Journaling
+  - Legos
+  - Cacarecos
